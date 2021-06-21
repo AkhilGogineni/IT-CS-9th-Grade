@@ -1,0 +1,67 @@
+<world>
+<properties>
+defaultSize height='30' width='30'/>
+</properties>
+<objects>
+<wall x='1' y='30' length='1' style='horizontal'/>
+<wall x='2' y='30' length='1' style='horizontal'/>
+<wall x='3' y='30' length='1' style='horizontal'/>
+<wall x='4' y='30' length='1' style='horizontal'/>
+<wall x='5' y='30' length='1' style='horizontal'/>
+<wall x='6' y='30' length='1' style='horizontal'/>
+<wall x='7' y='30' length='1' style='horizontal'/>
+<wall x='8' y='30' length='1' style='horizontal'/>
+<wall x='9' y='30' length='1' style='horizontal'/>
+<wall x='10' y='30' length='1' style='horizontal'/>
+<wall x='11' y='30' length='1' style='horizontal'/>
+<wall x='12' y='30' length='1' style='horizontal'/>
+<wall x='13' y='30' length='1' style='horizontal'/>
+<wall x='14' y='30' length='1' style='horizontal'/>
+<wall x='15' y='30' length='1' style='horizontal'/>
+<wall x='16' y='30' length='1' style='horizontal'/>
+<wall x='17' y='30' length='1' style='horizontal'/>
+<wall x='18' y='30' length='1' style='horizontal'/>
+<wall x='19' y='30' length='1' style='horizontal'/>
+<wall x='20' y='30' length='1' style='horizontal'/>
+<wall x='21' y='30' length='1' style='horizontal'/>
+<wall x='22' y='30' length='1' style='horizontal'/>
+<wall x='23' y='30' length='1' style='horizontal'/>
+<wall x='24' y='30' length='1' style='horizontal'/>
+<wall x='25' y='30' length='1' style='horizontal'/>
+<wall x='26' y='30' length='1' style='horizontal'/>
+<wall x='27' y='30' length='1' style='horizontal'/>
+<wall x='28' y='30' length='1' style='horizontal'/>
+<wall x='29' y='30' length='1' style='horizontal'/>
+<wall x='30' y='30' length='1' style='horizontal'/>
+<wall x='30' y='30' length='1' style='vertical'/>
+<wall x='30' y='29' length='1' style='vertical'/>
+<wall x='30' y='28' length='1' style='vertical'/>
+<wall x='30' y='27' length='1' style='vertical'/>
+<wall x='30' y='26' length='1' style='vertical'/>
+<wall x='30' y='25' length='1' style='vertical'/>
+<wall x='30' y='24' length='1' style='vertical'/>
+<wall x='30' y='23' length='1' style='vertical'/>
+<wall x='30' y='22' length='1' style='vertical'/>
+<wall x='30' y='21' length='1' style='vertical'/>
+<wall x='30' y='20' length='1' style='vertical'/>
+<wall x='30' y='19' length='1' style='vertical'/>
+<wall x='30' y='18' length='1' style='vertical'/>
+<wall x='30' y='17' length='1' style='vertical'/>
+<wall x='30' y='16' length='1' style='vertical'/>
+<wall x='30' y='15' length='1' style='vertical'/>
+<wall x='30' y='14' length='1' style='vertical'/>
+<wall x='30' y='13' length='1' style='vertical'/>
+<wall x='30' y='12' length='1' style='vertical'/>
+<wall x='30' y='11' length='1' style='vertical'/>
+<wall x='30' y='10' length='1' style='vertical'/>
+<wall x='30' y='9' length='1' style='vertical'/>
+<wall x='30' y='8' length='1' style='vertical'/>
+<wall x='30' y='7' length='1' style='vertical'/>
+<wall x='30' y='6' length='1' style='vertical'/>
+<wall x='30' y='5' length='1' style='vertical'/>
+<wall x='30' y='4' length='1' style='vertical'/>
+<wall x='30' y='3' length='1' style='vertical'/>
+<wall x='30' y='2' length='1' style='vertical'/>
+<wall x='30' y='1' length='1' style='vertical'/>
+</objects>
+</world>
